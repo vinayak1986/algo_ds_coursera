@@ -1,0 +1,12 @@
+naive solution
+------
+form all possible permutations of the list
+collapse each of them into a single number
+Get the highest among these numbers
+
+stress test
+-----
+Get a random number between 1 and 5
+Get a random list of n (1 to 5, from above)numbers between 1 and 10
+call the naive solution and the logic
+If the two answers are different, exit the infinite loop and call it out
